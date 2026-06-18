@@ -1,8 +1,7 @@
 ---
 tags:
 ---
-Testing what happens if I add something
-[Empty link](Empty%20link)
-
-[dwarves](dwarves.md)
+Player wiki for Tierno
 [Species](Species.md)
+[[Cities]]
+[[Hadim]]
