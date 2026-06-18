@@ -3,9 +3,7 @@ tags:
   - publish-me
 ---
 Testing what happens if I add something
-[[Empty link]]
+[Empty link](Empty%20link)
 
-or even better:
-[Full link](Full link)
-
-
+[[dwarves]]
+[[Species]]
