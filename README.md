@@ -1,6 +1,6 @@
-# Wiki
+# WIKI
 
-[test](test.md)
-[what](Wiki/Wiki_main.md)
-
-small changes
+Player wiki for Tierno
+[Species](Species.md)
+[Cities](Cities)
+[Hadim](Hadim.md)
