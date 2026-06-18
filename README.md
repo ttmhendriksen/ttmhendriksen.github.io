@@ -1,6 +1,6 @@
 # WIKI
 
 Player wiki for Tierno
-[Species](Species.md)
-[Cities](Cities)
-[Hadim](Hadim.md)
+[Species](Wiki/Species.md)
+[Cities](Wiki/Cities)
+[Hadim](Wiki/Hadim.md)
