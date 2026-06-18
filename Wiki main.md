@@ -1,1 +1,1 @@
-text
+This will be the home page
