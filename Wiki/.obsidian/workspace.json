@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki_main.md",
+                "file": "Full link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wiki_main"
+              "title": "Full link"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki_main.md",
+                "file": "Full link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wiki_main"
+              "title": "Backlinks for Full link"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki_main.md",
+                "file": "Full link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wiki_main"
+              "title": "Outgoing links from Full link"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki_main.md",
+                "file": "Full link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wiki_main"
+              "title": "Outline of Full link"
             }
           }
         ]
@@ -201,9 +201,9 @@
   },
   "active": "3ae9b37a6eebd152",
   "lastOpenFiles": [
-    "Full link.md",
-    "Wiki_main.md",
     "Welcome.md",
+    "Wiki_main.md",
+    "Full link.md",
     "Wiki main.md",
     "Species.md",
     "Test.base",
