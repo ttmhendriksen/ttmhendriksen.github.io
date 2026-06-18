@@ -1,4 +1,4 @@
 # Wiki
 
-[wiki](Wiki/Wiki main.md)
+[wiki]("wiki main.md")
 [test](test.md)
