@@ -1,3 +1,3 @@
 # Wiki
 
-[wiki](Wiki main.md)
+[wiki]("./Wiki main.md")
