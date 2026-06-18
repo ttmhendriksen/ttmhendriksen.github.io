@@ -1,2 +1,2 @@
-[[dwarves]]
-[[elves]]
+[dwarves](dwarves.md)
+[elves](elves)
